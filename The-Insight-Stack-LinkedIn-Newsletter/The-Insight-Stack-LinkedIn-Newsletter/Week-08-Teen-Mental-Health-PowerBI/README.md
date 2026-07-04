@@ -14,6 +14,17 @@ How can a school wellbeing team explore the relationship between social media us
 
 This dataset is synthetic and created for educational/dashboard demonstration purposes only. It should not be used for clinical diagnosis, healthcare decisions, or medical advice.
 
+## Dataset Source
+
+Dataset used in this project:
+
+**Social Media Impact on Mental Health**  
+Source: Kaggle  
+Dataset creator: Sunil Kumar  
+Dataset link: https://www.kaggle.com/datasets/sunil123kumar/social-media-impact-on-mental-health
+
+This dataset is used for educational and portfolio demonstration purposes only. All credit for the dataset belongs to the original Kaggle dataset creator.
+
 ## Dashboard Pages
 
 ### Page 1: Executive Overview
